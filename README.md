@@ -31,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `ng new angular-app`
 
 `ng serve`
+
+To create component `ng generate component servers` OR `ng g c servers`
+
