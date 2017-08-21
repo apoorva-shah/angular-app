@@ -32,5 +32,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 `ng serve`
 
-`ng generate component servers` `ng g c servers`
+To create component `ng generate component servers` OR `ng g c servers`
 
