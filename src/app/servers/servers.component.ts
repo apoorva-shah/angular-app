@@ -10,7 +10,7 @@ export class ServersComponent implements OnInit {
   constructor() {
     setTimeout(() => {
         this.allowNewServer = true;
-    }, 8000);
+    }, 2000);
   }
 
   ngOnInit() {
