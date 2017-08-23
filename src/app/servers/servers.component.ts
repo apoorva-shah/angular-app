@@ -9,10 +9,11 @@ export class ServersComponent implements OnInit {
   allowNewServer = false;
   serverCreationStatus = 'No server was created';
   serverName = 'TestServer';
+
   constructor() {
     setTimeout(() => {
         this.allowNewServer = true;
-    }, 2000);
+    }, 20000);
   }
 
   ngOnInit() {
